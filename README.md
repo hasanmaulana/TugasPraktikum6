@@ -48,3 +48,7 @@ i += 1
 print("| {no:2d} |{nim:12s}| {nama:9s} | {nilaiTugas:5d} | {nilaiUts:5d} | {nilaiUas:5d} | {nilaiAkhir:6.2f} |" 
 	.format(no=i, nim=item[0], nama=item[1], nilaiTugas=item[2], nilaiUts=item[3], nilaiUas=item[4], nilaiAkhir=item[5])) 
 print("========================================================================")
+
+![input1](https://github.com/hasanmaulana/TugasPraktikum6/blob/master/gambar/Tugas6%20INPUT%201.png)
+![input2](https://github.com/hasanmaulana/TugasPraktikum6/blob/master/gambar/Tugas6%20INPUT%202.png)
+![output1](https://github.com/hasanmaulana/TugasPraktikum6/blob/master/gambar/Tugas6%20OUTPUT1.png)
