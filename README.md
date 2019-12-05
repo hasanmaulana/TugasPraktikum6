@@ -49,9 +49,15 @@ print("| {no:2d} |{nim:12s}| {nama:9s} | {nilaiTugas:5d} | {nilaiUts:5d} | {nila
 	.format(no=i, nim=item[0], nama=item[1], nilaiTugas=item[2], nilaiUts=item[3], nilaiUas=item[4], nilaiAkhir=item[5])) 
 print("========================================================================")
 
+
+Contoh Flowchart
+![Flowchart](https://github.com/hasanmaulana/TugasPraktikum6/blob/master/gambar/Flowchart%20tugas6.png)
+
+
 Contoh input
 ![input1](https://github.com/hasanmaulana/TugasPraktikum6/blob/master/gambar/Tugas6%20INPUT%201.png)
 ![input2](https://github.com/hasanmaulana/TugasPraktikum6/blob/master/gambar/Tugas6%20INPUT%202.png)
+
 
 Contoh Output dari hasil Input
 ![output1](https://github.com/hasanmaulana/TugasPraktikum6/blob/master/gambar/Tugas6%20OUTPUT1.png)
