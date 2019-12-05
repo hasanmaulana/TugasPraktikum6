@@ -51,7 +51,7 @@ print("========================================================================"
 
 
 Contoh Flowchart
-![Flowchart](https://github.com/hasanmaulana/TugasPraktikum6/blob/master/gambar/Flowchart%20tugas6.png)
+![Flow](https://github.com/hasanmaulana/TugasPraktikum6/blob/master/gambar/Flowchart%20tugas6.png)
 
 
 Contoh input
